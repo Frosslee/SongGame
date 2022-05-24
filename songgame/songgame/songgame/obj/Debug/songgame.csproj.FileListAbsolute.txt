@@ -1,0 +1,12 @@
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\bin\Debug\songgame.exe.config
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\bin\Debug\songgame.exe
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\bin\Debug\songgame.pdb
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.csprojAssemblyReference.cache
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.Properties.Resources.resources
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.csproj.GenerateResource.cache
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.exe
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.pdb
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.frmMenu.resources
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.frmLobby.resources
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.frmStage.resources

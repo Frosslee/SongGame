@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "songgame", "songgame\songgame.csproj", "{BA0580E8-1C68-411E-A074-02C2C7997CA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA0580E8-1C68-411E-A074-02C2C7997CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0580E8-1C68-411E-A074-02C2C7997CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0580E8-1C68-411E-A074-02C2C7997CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0580E8-1C68-411E-A074-02C2C7997CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A53B9EA0-8340-4198-9674-53AC5A52341C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,120 @@
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\bin\Debug\songgame.exe.config
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\bin\Debug\songgame.exe
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\bin\Debug\songgame.pdb
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.csprojAssemblyReference.cache
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.Properties.Resources.resources
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.csproj.GenerateResource.cache
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.exe
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.pdb
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.frmMenu.resources
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.frmLobby.resources
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\assignment\songgame\songgame\obj\Debug\songgame.frmStage.resources
+C:\Users\franc\OneDrive - belgiumcampus.ac.za\study\2nd Year\PRG\PRG 281\GitHub\rockology\songgame\songgame\bin\Debug\songgame.exe.config
+C:\Users\franc\OneDrive - belgiumcampus.ac.za\study\2nd Year\PRG\PRG 281\GitHub\rockology\songgame\songgame\bin\Debug\songgame.exe
+C:\Users\franc\OneDrive - belgiumcampus.ac.za\study\2nd Year\PRG\PRG 281\GitHub\rockology\songgame\songgame\bin\Debug\songgame.pdb
+C:\Users\franc\OneDrive - belgiumcampus.ac.za\study\2nd Year\PRG\PRG 281\GitHub\rockology\songgame\songgame\obj\Debug\songgame.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive - belgiumcampus.ac.za\study\2nd Year\PRG\PRG 281\GitHub\rockology\songgame\songgame\obj\Debug\songgame.frmLobby.resources
+C:\Users\franc\OneDrive - belgiumcampus.ac.za\study\2nd Year\PRG\PRG 281\GitHub\rockology\songgame\songgame\obj\Debug\songgame.frmMenu.resources
+C:\Users\franc\OneDrive - belgiumcampus.ac.za\study\2nd Year\PRG\PRG 281\GitHub\rockology\songgame\songgame\obj\Debug\songgame.frmStage.resources
+C:\Users\franc\OneDrive - belgiumcampus.ac.za\study\2nd Year\PRG\PRG 281\GitHub\rockology\songgame\songgame\obj\Debug\songgame.Properties.Resources.resources
+C:\Users\franc\OneDrive - belgiumcampus.ac.za\study\2nd Year\PRG\PRG 281\GitHub\rockology\songgame\songgame\obj\Debug\songgame.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive - belgiumcampus.ac.za\study\2nd Year\PRG\PRG 281\GitHub\rockology\songgame\songgame\obj\Debug\songgame.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive - belgiumcampus.ac.za\study\2nd Year\PRG\PRG 281\GitHub\rockology\songgame\songgame\obj\Debug\songgame.exe
+C:\Users\franc\OneDrive - belgiumcampus.ac.za\study\2nd Year\PRG\PRG 281\GitHub\rockology\songgame\songgame\obj\Debug\songgame.pdb
+C:\Users\User-PC\Documents\GitHub\rockology\songgame\songgame\bin\Debug\songgame.exe.config
+C:\Users\User-PC\Documents\GitHub\rockology\songgame\songgame\bin\Debug\songgame.exe
+C:\Users\User-PC\Documents\GitHub\rockology\songgame\songgame\bin\Debug\songgame.pdb
+C:\Users\User-PC\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.csprojAssemblyReference.cache
+C:\Users\User-PC\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.frmLobby.resources
+C:\Users\User-PC\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.frmMenu.resources
+C:\Users\User-PC\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.frmStage.resources
+C:\Users\User-PC\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.Properties.Resources.resources
+C:\Users\User-PC\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.csproj.GenerateResource.cache
+C:\Users\User-PC\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.exe
+C:\Users\User-PC\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.pdb
+C:\Users\werne\OneDrive\Documents\GitHub\rockology\songgame\songgame\bin\Debug\songgame.exe.config
+C:\Users\werne\OneDrive\Documents\GitHub\rockology\songgame\songgame\bin\Debug\songgame.exe
+C:\Users\werne\OneDrive\Documents\GitHub\rockology\songgame\songgame\bin\Debug\songgame.pdb
+C:\Users\werne\OneDrive\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.csproj.AssemblyReference.cache
+C:\Users\werne\OneDrive\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.frmLobby.resources
+C:\Users\werne\OneDrive\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.frmMenu.resources
+C:\Users\werne\OneDrive\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.frmStage.resources
+C:\Users\werne\OneDrive\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.Properties.Resources.resources
+C:\Users\werne\OneDrive\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.csproj.GenerateResource.cache
+C:\Users\werne\OneDrive\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.csproj.CoreCompileInputs.cache
+C:\Users\werne\OneDrive\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.exe
+C:\Users\werne\OneDrive\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.pdb
+C:\Users\User-PC\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.frmPartySolo.resources
+C:\Users\User-PC\Documents\GitHub\rockology\songgame\songgame\obj\Debug\songgame.frmDuoStage.resources
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\rockology\songgame\songgame\bin\Debug\songgame.exe.config
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\rockology\songgame\songgame\bin\Debug\songgame.exe
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\rockology\songgame\songgame\bin\Debug\songgame.pdb
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\rockology\songgame\songgame\obj\Debug\songgame.csprojAssemblyReference.cache
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\rockology\songgame\songgame\obj\Debug\songgame.frmDuoStage.resources
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\rockology\songgame\songgame\obj\Debug\songgame.frmLobby.resources
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\rockology\songgame\songgame\obj\Debug\songgame.frmMenu.resources
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\rockology\songgame\songgame\obj\Debug\songgame.frmPartySolo.resources
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\rockology\songgame\songgame\obj\Debug\songgame.frmStage.resources
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\rockology\songgame\songgame\obj\Debug\songgame.Properties.Resources.resources
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\rockology\songgame\songgame\obj\Debug\songgame.csproj.GenerateResource.cache
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\rockology\songgame\songgame\obj\Debug\songgame.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\rockology\songgame\songgame\obj\Debug\songgame.exe
+C:\Users\User-PC\Documents\belgium campus\YEAR2\prg281\rockology\songgame\songgame\obj\Debug\songgame.pdb
+C:\Users\User-PC\Documents\GitHub\rockology3\rockology\songgame\songgame\bin\Debug\songgame.exe.config
+C:\Users\User-PC\Documents\GitHub\rockology3\rockology\songgame\songgame\bin\Debug\songgame.exe
+C:\Users\User-PC\Documents\GitHub\rockology3\rockology\songgame\songgame\bin\Debug\songgame.pdb
+C:\Users\User-PC\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.csprojAssemblyReference.cache
+C:\Users\User-PC\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.frmDuoStage.resources
+C:\Users\User-PC\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.frmLobby.resources
+C:\Users\User-PC\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.frmMenu.resources
+C:\Users\User-PC\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.frmPartySolo.resources
+C:\Users\User-PC\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.frmStage.resources
+C:\Users\User-PC\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.Properties.Resources.resources
+C:\Users\User-PC\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.csproj.GenerateResource.cache
+C:\Users\User-PC\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.exe
+C:\Users\User-PC\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.pdb
+C:\Users\werne\OneDrive\Documents\GitHub\rockology3\rockology\songgame\songgame\bin\Debug\songgame.exe.config
+C:\Users\werne\OneDrive\Documents\GitHub\rockology3\rockology\songgame\songgame\bin\Debug\songgame.exe
+C:\Users\werne\OneDrive\Documents\GitHub\rockology3\rockology\songgame\songgame\bin\Debug\songgame.pdb
+C:\Users\werne\OneDrive\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.csproj.AssemblyReference.cache
+C:\Users\werne\OneDrive\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.frmDuoStage.resources
+C:\Users\werne\OneDrive\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.frmLobby.resources
+C:\Users\werne\OneDrive\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.frmMenu.resources
+C:\Users\werne\OneDrive\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.frmPartySolo.resources
+C:\Users\werne\OneDrive\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.frmStage.resources
+C:\Users\werne\OneDrive\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.Properties.Resources.resources
+C:\Users\werne\OneDrive\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.csproj.GenerateResource.cache
+C:\Users\werne\OneDrive\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.csproj.CoreCompileInputs.cache
+C:\Users\werne\OneDrive\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.exe
+C:\Users\werne\OneDrive\Documents\GitHub\rockology3\rockology\songgame\songgame\obj\Debug\songgame.pdb
+C:\Users\werne\OneDrive\Desktop\rockology\songgame\songgame\bin\Debug\songgame.exe.config
+C:\Users\werne\OneDrive\Desktop\rockology\songgame\songgame\bin\Debug\songgame.exe
+C:\Users\werne\OneDrive\Desktop\rockology\songgame\songgame\bin\Debug\songgame.pdb
+C:\Users\werne\OneDrive\Desktop\rockology\songgame\songgame\obj\Debug\songgame.csproj.AssemblyReference.cache
+C:\Users\werne\OneDrive\Desktop\rockology\songgame\songgame\obj\Debug\songgame.frmDuoStage.resources
+C:\Users\werne\OneDrive\Desktop\rockology\songgame\songgame\obj\Debug\songgame.frmLobby.resources
+C:\Users\werne\OneDrive\Desktop\rockology\songgame\songgame\obj\Debug\songgame.frmMenu.resources
+C:\Users\werne\OneDrive\Desktop\rockology\songgame\songgame\obj\Debug\songgame.frmPartySolo.resources
+C:\Users\werne\OneDrive\Desktop\rockology\songgame\songgame\obj\Debug\songgame.frmStage.resources
+C:\Users\werne\OneDrive\Desktop\rockology\songgame\songgame\obj\Debug\songgame.Properties.Resources.resources
+C:\Users\werne\OneDrive\Desktop\rockology\songgame\songgame\obj\Debug\songgame.csproj.GenerateResource.cache
+C:\Users\werne\OneDrive\Desktop\rockology\songgame\songgame\obj\Debug\songgame.csproj.CoreCompileInputs.cache
+C:\Users\werne\OneDrive\Desktop\rockology\songgame\songgame\obj\Debug\songgame.exe
+C:\Users\werne\OneDrive\Desktop\rockology\songgame\songgame\obj\Debug\songgame.pdb
+C:\Users\werne\OneDrive\Desktop\Program_Group_9\songgame\songgame\bin\Debug\songgame.exe.config
+C:\Users\werne\OneDrive\Desktop\Program_Group_9\songgame\songgame\bin\Debug\songgame.exe
+C:\Users\werne\OneDrive\Desktop\Program_Group_9\songgame\songgame\bin\Debug\songgame.pdb
+C:\Users\werne\OneDrive\Desktop\Program_Group_9\songgame\songgame\obj\Debug\songgame.csproj.AssemblyReference.cache
+C:\Users\werne\OneDrive\Desktop\Program_Group_9\songgame\songgame\obj\Debug\songgame.frmDuoStage.resources
+C:\Users\werne\OneDrive\Desktop\Program_Group_9\songgame\songgame\obj\Debug\songgame.frmLobby.resources
+C:\Users\werne\OneDrive\Desktop\Program_Group_9\songgame\songgame\obj\Debug\songgame.frmMenu.resources
+C:\Users\werne\OneDrive\Desktop\Program_Group_9\songgame\songgame\obj\Debug\songgame.frmPartySolo.resources
+C:\Users\werne\OneDrive\Desktop\Program_Group_9\songgame\songgame\obj\Debug\songgame.frmStage.resources
+C:\Users\werne\OneDrive\Desktop\Program_Group_9\songgame\songgame\obj\Debug\songgame.Properties.Resources.resources
+C:\Users\werne\OneDrive\Desktop\Program_Group_9\songgame\songgame\obj\Debug\songgame.csproj.GenerateResource.cache
+C:\Users\werne\OneDrive\Desktop\Program_Group_9\songgame\songgame\obj\Debug\songgame.csproj.CoreCompileInputs.cache
+C:\Users\werne\OneDrive\Desktop\Program_Group_9\songgame\songgame\obj\Debug\songgame.exe
+C:\Users\werne\OneDrive\Desktop\Program_Group_9\songgame\songgame\obj\Debug\songgame.pdb
